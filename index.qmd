@@ -1,0 +1,63 @@
+---
+title: "Grupo_5"
+format:
+  html:
+    mainfont: Tinos
+    title-block-banner: false
+    toc: false
+    number-sections: false
+---
+
+## Escuela profesional:
+
+Ingeniería agrónoma
+
+## Curso:
+
+Cultivos Tropicales
+
+## Ciclo:
+
+IX
+
+## Docente:
+
+Vasquez Garcia, Jheiner
+
+## Integrantes:
+
+Chuimes Regalado Miguel Ángel
+
+Fernandez Rojas Jhonatan Dali
+
+Gómez Cruz Kevin Orlando
+
+López Ollaguez Michel Johh
+
+Grandez Castro Brayan Eliseo
+
+## Variedad:
+
+H32-8560 (Chicama 32)
+
+## Datos de colecta:
+
+Fecha de colecta: 12/04/2026
+
+Coordenadas: Latitud: 6° 15' 3.8664" S / Longitud:77° 53' 11.6412" W
+
+Anexo: Lucmaurco
+
+Distrito: Chachapoyas
+
+Provincia: Chachapoyas
+
+Región: Amazonas
+
+Suelo: Arcilloso
+
+Clima: Moderadamente nublado
+
+## Descripción de la variedad:
+
+Presenta un tallo erecto hasta los 11 meses, es de color ceniza, presenta de 9-12 tallos. Tiene hoja larga color verde oscuro de buen deshoje natural. Su germinación es moderada, con un crecimiento vigoroso erecto y tiene muy escasa floración. Con respecto a su susceptibilidad al carbón de la caña, tiene una moderada resistencia a roya, mosaico y raquitismo de la soca. Tiene una producción de 108,56 toneladas de caña/ha/año, con un nivel de 13.9% de sacarosa a la edad de 17 meses.
